@@ -13,7 +13,9 @@
    
 ## 工作经历
 
-### 2017/4-至今 日本富士通 云整合部门 Fujitsu co.ltd; Cloud Integration Department
+### 2017/4-至今 
+  **日本富士通 云整合部门  
+  Fujitsu co.ltd; Cloud Integration Department**
 
 ### 项目经验（方向多为云平台网络整合/虚拟化后台控制器的开发）
    * **Openstack tacker（NFV管理组件）的容器控制开发**
